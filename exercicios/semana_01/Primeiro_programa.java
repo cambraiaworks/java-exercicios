@@ -1,3 +1,5 @@
+package semana_01;
+
 public class Primeiro_programa {
 
     public static void main(String[] args) {
@@ -6,5 +8,6 @@ public class Primeiro_programa {
 
         System.out.println("Teste 2");
 
+        IO.println("Teste Java 25");
     }
 }
